@@ -6,9 +6,11 @@
 <h2 align="center">Tecnologías de mi interes y las que estudio actualmente</h2>
 <br>
 <p align="center">
+    <a> <img src="https://www.yoyogames.com/images/pages/gamemaker/xblc/gms-large-white-icon.png"  width="40" height="40"/> </a>
+    <a> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" width="40" height="40"/> </a>
+    <a> <img src="https://cdn0.iconfinder.com/data/icons/web-social-and-folder-icons/512/Unity_3D.png" width="40" height="40"/> </a>
     <a> <img src="https://telegramturkiye.com/wp-content/uploads/2019/12/BotFather.jpg" width="40" height="40"/> </a>
     <a> <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" width="40" height="40"/> </a>
-    <a> <img src="https://www.yoyogames.com/images/pages/gamemaker/xblc/gms-large-white-icon.png"  width="40" height="40"/> </a> 
     <a> <img src="https://devicon.dev/devicon.git/icons/linux/linux-original.svg" width="40" height="40"/> </a> 
     <a> <img src="https://devicon.dev/devicon.git/icons/csharp/csharp-original.svg" width="40" height="40"/> </a>
     <a> <img src="https://devicon.dev/devicon.git/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> </a>
