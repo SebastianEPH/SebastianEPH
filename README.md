@@ -6,19 +6,20 @@
 <h2 align="center">Tecnologías de mi interes y las que estudio actualmente</h2>
 <br>
 <p align="center">
-    <a> <img src="https://devicon.dev/devicon.git/icons/android/android-original.svg" width="40" height="40"/> </a>
+    <a> <img src="https://telegramturkiye.com/wp-content/uploads/2019/12/BotFather.jpg" width="40" height="40"/> </a>
+    <a> <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" width="40" height="40"/> </a>
     <a> <img src="https://www.yoyogames.com/images/pages/gamemaker/xblc/gms-large-white-icon.png"  width="40" height="40"/> </a> 
     <a> <img src="https://devicon.dev/devicon.git/icons/linux/linux-original.svg" width="40" height="40"/> </a> 
     <a> <img src="https://devicon.dev/devicon.git/icons/csharp/csharp-original.svg" width="40" height="40"/> </a>
     <a> <img src="https://devicon.dev/devicon.git/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> </a>
     <a> <img src="https://devicon.dev/devicon.git/icons/git/git-original.svg" width="40" height="40"/> </a>
-    <a> <img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" width="40" height="40"/> </a>
+    <a> <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="40" height="40"/> </a>
     <a> <img src="https://devicon.dev/devicon.git/icons/gitlab/gitlab-original.svg" width="40" height="40"/> </a>
     <a> <img src="https://devicon.dev/devicon.git/icons/heroku/heroku-plain-wordmark.svg" width="40" height="40"/> </a>
-    <a> <img src="https://devicon.dev/devicon.git/icons/express/express-original-wordmark.svg" width="40" height="40"/> </a>
+    <a> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/Express_Clothing_Logo.SVG/1280px-Express_Clothing_Logo.SVG.png" width="40" height="40"/> </a>
     <a> <img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" width="40" height="40"/> </a>
     <a> <img src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" width="40" height="40"/> </a>
-    <a> <img src="https://devicon.dev/devicon.git/icons/handlebars/handlebars-original-wordmark.svg" width="40" height="40"/> </a>
+    <a> <img src="https://cdn.iconscout.com/icon/free/png-512/handlebars-282936.png" width="40" height="40"/> </a>
     <a> <img src="https://devicon.dev/devicon.git/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40"/> </a>
     <a> <img src="https://devicon.dev/devicon.git/icons/bootstrap/bootstrap-plain.svg" width="40" height="40"/> </a>
     <a> <img src="https://devicon.dev/devicon.git/icons/npm/npm-original-wordmark.svg" width="40" height="40"/> </a>
