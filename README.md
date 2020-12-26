@@ -3,7 +3,7 @@
 <!--[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SebastianEPH&repo=SpyTrojan_Keylogger)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
-<h2 align="center">Tecnologías de mi interes y las que estudio actualmente</h2>
+<b><h2 align="center">Tecnologías de mi interes y las que estudio actualmente</h2></b>
 <br>
 <p align="center">
     <a> <img src="https://www.yoyogames.com/images/pages/gamemaker/xblc/gms-large-white-icon.png"  width="40" height="40"/> </a>
@@ -20,6 +20,8 @@
     <a> <img src="https://devicon.dev/devicon.git/icons/heroku/heroku-plain-wordmark.svg" width="40" height="40"/> </a>
     <a> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/Express_Clothing_Logo.SVG/1280px-Express_Clothing_Logo.SVG.png" width="40" height="40"/> </a>
     <a> <img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" width="40" height="40"/> </a>
+    <a> <img src="https://devicon.dev/devicon.git/icons/typescript/typescript-original.svg" width="40" height="40"/> </a>
+    <a> <img src="https://devicon.dev/devicon.git/icons/angularjs/angularjs-original.svg" width="40" height="40"/> </a>
     <a> <img src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" width="40" height="40"/> </a>
     <a> <img src="https://cdn.iconscout.com/icon/free/png-512/handlebars-282936.png" width="40" height="40"/> </a>
     <a> <img src="https://devicon.dev/devicon.git/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40"/> </a>
@@ -34,12 +36,13 @@
 </p>
 
 
-<h3 align="center">IDE Favoritos</h3>
+<b><h3 align="center">IDE Favoritos</h3></b>
 <p align="center">
     <a> <img src="https://devicon.dev/devicon.git/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/> </a>
-    <a> <img src="https://devicon.dev/devicon.git/icons/intellij/intellij-original.svg" width="40" height="40"/> </a>
-    <a> <img src="https://devicon.dev/devicon.git/icons/webstorm/webstorm-original.svg" width="40" height="40"/> </a>
-    <a> <img src="https://devicon.dev/devicon.git/icons/pycharm/pycharm-original.svg" width="40" height="40"/> </a>
+    <a> <img src="https://www.armadilloamarillo.com/wp-content/uploads/logo_android_studio_512dp.png" width="40" height="40"/> </a>
+    <a> <img src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" width="40" height="40"/> </a>
+    <a> <img src="https://resources.jetbrains.com/storage/products/webstorm/img/meta/webstorm_logo_300x300.png" width="40" height="40"/> </a>
+    <a> <img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" width="40" height="40"/> </a>
 </p>
 
 
@@ -55,7 +58,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=SebastianEPH&show_icons=true&theme=chartreuse-dark"/>
 </p>
 
- <h2 align="center">Social Networks</h2>
+<b><h2 align="center">Redes de contacto</h2></b>
 
 <p align="center">
     <a href="https://t.me/sebastianeph" > <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" width="40" height="40"/> </a> 
