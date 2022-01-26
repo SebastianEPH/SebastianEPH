@@ -6,7 +6,7 @@
 <b><h2 align="center">Tecnologías de mi interes y las que estudio actualmente</h2></b>
 <br>
 <p align="center">
-    <a> <img src="https://www.yoyogames.com/images/pages/gamemaker/xblc/gms-large-white-icon.png"  width="40" height="40"/> </a>
+    <a> <img src="icons/gamemaker.png"  width="40" height="40"/> </a>
     <a> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" width="40" height="40"/> </a>
     <a> <img src="https://cdn0.iconfinder.com/data/icons/web-social-and-folder-icons/512/Unity_3D.png" width="40" height="40"/> </a>
     <a> <img src="https://telegramturkiye.com/wp-content/uploads/2019/12/BotFather.jpg" width="40" height="40"/> </a>
@@ -26,6 +26,7 @@
     <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/> </a>
     <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/> </a>
     <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="40" height="40"/> </a>
+    <a> <img src="icons/reactjs.svg" width="40" height="40"/> </a>
     <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/> </a>
     <a> <img src="https://cdn.iconscout.com/icon/free/png-512/handlebars-282936.png" width="40" height="40"/> </a>
     <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain-wordmark.svg" width="40" height="40"/> </a>
@@ -62,18 +63,9 @@
     <img src="https://github-readme-stats.vercel.app/api?username=SebastianEPH&show_icons=true&theme=chartreuse-dark"/>
 </p>
 
-<b><h2 align="center">Redes de contacto</h2></b>
+
 
 <p align="center">
-    <a href="https://t.me/sebastianeph" > <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" width="40" height="40"/> </a> 
-    <a href="https://t.me/SebastianEPH_bot" > <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" width="40" height="40"/> </a> 
-    <a href="https://www.youtube.com/channel/UCerQxFkwZZRxjcTuLX9FueA?view_as=subscriber" ><img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" width="40" height="40"/> </a> 
-    <a href="https://www.linkedin.com/in/sebastianeph/"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/> </a>
-    <a href="mailto:sebastianeph99@gmail.com"> <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="40" height="40"/> </a>
-    <a href="https://www.facebook.com/SebastianEPH"> <img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" width="40" height="40"/> </a>
-    <a href= "https://github.com/SebastianEPH"> <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="40" height="40"/> </a>
-    <a href= "https://gitlab.com/SebastianEPH"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original-wordmark.svg" width="40" height="40"/> </a>
-    <a href= "https://twitter.com/sebastianeph99/"> <img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" width="40" height="40"/> </a>
-    <a href= "https://www.instagram.com/sebastianeph99/"> <img src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" width="40" height="40"/> </a><br>
+    </a><br>
     <p align="center"><img src="https://profile-counter.glitch.me/{SebastianEPH}/count.svg"></p>
 </p>
