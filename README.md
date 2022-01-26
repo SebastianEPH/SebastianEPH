@@ -41,15 +41,22 @@
 </p>
 
 
-<b><h3 align="center">IDE Favoritos</h3></b>
+<b><h3 align="center">IDE y herramientas</h3></b>
 <p align="center">
     <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/> </a>
     <a> <img src="https://www.armadilloamarillo.com/wp-content/uploads/logo_android_studio_512dp.png" width="40" height="40"/> </a>
     <a> <img src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" width="40" height="40"/> </a>
     <a> <img src="https://resources.jetbrains.com/storage/products/webstorm/img/meta/webstorm_logo_300x300.png" width="40" height="40"/> </a>
     <a> <img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" width="40" height="40"/> </a>
+    <a> <img src="icons/heidi-sql.png" width="40" height="40"/> </a>
 </p>
 
+<b><h3 align="center">Redes de criptomonedas que uso</h3></b>
+<p align="center">
+    <a> <img src="icons/eth.svg" width="40" height="40"/> </a>
+    <a> <img src="icons/matic.svg" width="40" height="40"/> </a>
+    <a> <img src="icons/bnb.svg" width="40" height="40"/> 
+</p>
 
 
 <p align="center">
